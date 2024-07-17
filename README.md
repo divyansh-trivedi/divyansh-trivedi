@@ -6,7 +6,7 @@
 <h3 align="center">Connect with me:</h3>
 <p align="center">
   <a href="mailto:divyanshtrivedi85@gmail.com" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="gmail" height="30" width="40" />
+    <img align="center" src="[https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)" alt="gmail" height="30" width="40" />
   </a>
   <a href="https://linkedin.com/in/divyansh-trivedi1408" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="divyansh-trivedi1408" height="30" width="40" />

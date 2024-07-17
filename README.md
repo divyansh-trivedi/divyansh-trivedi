@@ -10,10 +10,7 @@
   </a>
   <a href="https://linkedin.com/in/divyansh-trivedi1408" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="divyansh-trivedi1408" height="30" width="40" />
-  </a>
-  <a href="https://codeforces.com/profile/divyansh1408" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="divyansh1408" height="30" width="40" />
-  </a>
+ 
 </p>
 
 <br><br>

@@ -1,29 +1,25 @@
 <h1 align="center">Hi 👋, I'm Divyansh Trivedi</h1>
 <h3 align="center">I am pursuing Bachelor of Technology in Computer Science (AIML) from G.L. Bajaj Institute of Management and Technology!</h3>
 
-<br>
-<br>
+<br><br>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="center">Connect with me:</h3>
+<p align="center">
+  <a href="mailto:divyanshtrivedi85@gmail.com" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="gmail" height="30" width="40" />
+  </a>
   <a href="https://linkedin.com/in/divyansh-trivedi1408" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="divyansh-trivedi1408" height="30" width="40" />
   </a>
-  <a href="https://www.codechef.com/users/divyansh1408" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="divyansh1408" height="30" width="40" />
-  </a>
   <a href="https://codeforces.com/profile/divyansh1408" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="divyansh1408" height="30" width="40" />
-  </a>
-  <a href="https://www.leetcode.com/divyanshtrivedi85" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="divyanshtrivedi85" height="30" width="40" />
   </a>
 </p>
 
 <br><br>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
+<h3 align="center">Languages and Tools:</h3>
+<p align="center">
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
   </a>
@@ -53,12 +49,15 @@
   </a>
 </p>
 
-<h3 align="left">Competitive Programming:</h3>
-<p align="left">
+<h3 align="center">Competitive Programming:</h3>
+<p align="center">
   <a href="https://www.codechef.com/users/divyansh1408" target="blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="divyansh1408" height="30" width="40"/>
   </a>
   <a href="https://codeforces.com/profile/divyansh1408" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="divyansh1408" height="30" width="40"/>
+  </a>
+  <a href="https://www.leetcode.com/divyanshtrivedi85" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="divyanshtrivedi85" height="30" width="40"/>
   </a>
 </p>

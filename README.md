@@ -54,7 +54,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
   </a>
 </p>
-
+<br><br>
 <h3 align="center">Competitive Programming:</h3>
 <p align="center">
   <a href="https://www.codechef.com/users/divyansh1408" target="blank">

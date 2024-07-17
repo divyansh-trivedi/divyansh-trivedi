@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Divyansh Trivedi</h1>
 <h3 align="center">I am pursuing Bachelor of Technology in Computer Science(AIML) from G.L. Bajaj Institute of Management and Technology !</h3>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="middle">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/divyansh-trivedi1408" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="divyansh-trivedi1408" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/divyansh1408" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="divyansh1408" height="30" width="40" /></a>

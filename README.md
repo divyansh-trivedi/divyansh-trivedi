@@ -3,13 +3,15 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Divyansh Trivedi</h1>
-<h3 align="center">🎓 B.Tech in Computer Science (AIML) | Aspiring AI & Full-Stack Developer</h3>
+<h3 align="center">💻 Backend Engineer | Node.js, Express, MongoDB, SQL | Full-Stack Developer</h3>
 
 ---
 
 ## 🌟 About Me
-I am passionate about **Artificial Intelligence, Machine Learning, Web Development, and Competitive Programming**.  
-I love solving complex problems, building innovative projects, and learning new technologies every day.  
+I am a **Backend Engineer** passionate about building scalable and efficient web applications.  
+My forte is **Node.js, Express, JavaScript, MongoDB, and SQL**.  
+I also have experience in frontend development but my main focus is backend architecture, API design, and database management.  
+I love solving challenging problems, optimizing systems, and building robust applications.  
 
 ---
 
@@ -32,15 +34,14 @@ I love solving complex problems, building innovative projects, and learning new 
 
 ## 🛠 Languages & Tools
 <p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40"/>
 </p>
 
 ---
@@ -61,9 +62,10 @@ I love solving complex problems, building innovative projects, and learning new 
 ---
 
 ## 🌱 Currently Learning
-- Advanced **Machine Learning & AI**  
-- Full-stack **MERN Development**  
-- **Competitive Programming** challenges  
+- Advanced **Backend Architectures** and **RESTful APIs**  
+- **Microservices** with Node.js & Express  
+- **Database Optimization** (MongoDB & SQL)  
+- **Cloud Deployments** (Heroku, AWS)  
 
 ---
 

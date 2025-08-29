@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/divyanshtrivedi85/divyanshtrivedi85/raw/main/banner.gif" alt="Banner" width="100%" />
+  <img src="https://github.com/divyansh-trivedi/divyansh-trivedi/raw/main/banner.gif" alt="Banner" width="100%" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Divyansh Trivedi</h1>
@@ -8,25 +8,20 @@
 ---
 
 ## 🌟 About Me
-I am a **Backend Engineer** passionate about building scalable and efficient web applications.  
-My forte is **Node.js, Express, JavaScript, MongoDB, and SQL**.  
-I also have experience in frontend development but my main focus is backend architecture, API design, and database management.  
-I love solving challenging problems, optimizing systems, and building robust applications.  
+I am a **Backend Engineer** who loves building **web applications and APIs**.  
+My main skills are **Node.js, Express, JavaScript, MongoDB, and SQL**.  
+I also have some experience in frontend development, but my main focus is on **backend development**.  
 
 ---
 
 ## 🔗 Connect with Me
 <p align="center">
   <a href="mailto:divyanshtrivedi85@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" alt="Gmail" height="30" width="120"/>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" height="30" width="120"/>
   </a>
   &nbsp;
   <a href="https://linkedin.com/in/divyansh-trivedi1408" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="30" width="120"/>
-  </a>
-  &nbsp;
-  <a href="https://www.codechef.com/users/divyansh1408" target="_blank">
-    <img src="https://img.shields.io/badge/CodeChef-000000?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" height="30" width="120"/>
   </a>
 </p>
 
@@ -62,15 +57,14 @@ I love solving challenging problems, optimizing systems, and building robust app
 ---
 
 ## 🌱 Currently Learning
-- Advanced **Backend Architectures** and **RESTful APIs**  
-- **Microservices** with Node.js & Express  
-- **Database Optimization** (MongoDB & SQL)  
-- **Cloud Deployments** (Heroku, AWS)  
+- Building better **backend applications** with Node.js and Express  
+- Working with **databases** like MongoDB and SQL  
+- Practicing **full-stack projects**  
 
 ---
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=divyanshtrivedi85&show_icons=true&theme=radical" alt="Divyansh's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=divyanshtrivedi85&theme=radical" alt="GitHub Streak" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Divyansh6799&show_icons=true" alt="Divyansh's GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Divyansh6799&layout=compact" alt="Top Languages" />
 </p>
